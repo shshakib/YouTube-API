@@ -1,7 +1,8 @@
 # YouTube API Subscriber Count Fetcher
 ## Description
-
 This Python script is designed to enrich YouTube trending dataset information by fetching the subscriber counts for channels listed in the dataset. It connects to the YouTube API, retrieves subscriber counts for each channel ID, and integrates this data into the YouTube trending dataset. The script is equipped with functions to handle large datasets, manage API requests, and ensure efficient data processing.
+
+Dataset link: https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset
 
 ## Features
     YouTube API Integration: Connects to YouTube's Data API to fetch subscriber counts.
